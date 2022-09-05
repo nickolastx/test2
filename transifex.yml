@@ -5,3 +5,5 @@ git:
     source_file: example.po
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
+    
+    
