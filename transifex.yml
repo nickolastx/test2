@@ -1,7 +1,7 @@
 git:
   filters:
   - filter_type: file
-    file_format: txt
-    source_file: locale/test.txt
+    file_format: PO
+    source_file: locale/example.po
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
